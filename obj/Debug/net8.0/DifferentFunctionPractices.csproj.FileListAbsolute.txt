@@ -1,0 +1,15 @@
+/workspaces/DifferentFunctionPractices/bin/Debug/net8.0/DifferentFunctionPractices
+/workspaces/DifferentFunctionPractices/bin/Debug/net8.0/DifferentFunctionPractices.deps.json
+/workspaces/DifferentFunctionPractices/bin/Debug/net8.0/DifferentFunctionPractices.runtimeconfig.json
+/workspaces/DifferentFunctionPractices/bin/Debug/net8.0/DifferentFunctionPractices.dll
+/workspaces/DifferentFunctionPractices/bin/Debug/net8.0/DifferentFunctionPractices.pdb
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.AssemblyInfoInputs.cache
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.AssemblyInfo.cs
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.csproj.CoreCompileInputs.cache
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.sourcelink.json
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.dll
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/refint/DifferentFunctionPractices.dll
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.pdb
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/DifferentFunctionPractices.genruntimeconfig.cache
+/workspaces/DifferentFunctionPractices/obj/Debug/net8.0/ref/DifferentFunctionPractices.dll
